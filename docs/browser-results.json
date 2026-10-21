@@ -1,0 +1,96 @@
+{
+  "errors": [],
+  "external": [],
+  "responsive": [
+    {
+      "route": "/",
+      "width": 320,
+      "viewport": 320,
+      "document": 320,
+      "body": 320
+    },
+    {
+      "route": "/",
+      "width": 375,
+      "viewport": 375,
+      "document": 375,
+      "body": 375
+    },
+    {
+      "route": "/",
+      "width": 414,
+      "viewport": 414,
+      "document": 414,
+      "body": 414
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "viewport": 768,
+      "document": 768,
+      "body": 768
+    },
+    {
+      "route": "/",
+      "width": 1280,
+      "viewport": 1280,
+      "document": 1280,
+      "body": 1280
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "viewport": 1920,
+      "document": 1920,
+      "body": 1920
+    },
+    {
+      "route": "/story",
+      "width": 320,
+      "viewport": 320,
+      "document": 320,
+      "body": 328
+    },
+    {
+      "route": "/story",
+      "width": 375,
+      "viewport": 375,
+      "document": 375,
+      "body": 375
+    },
+    {
+      "route": "/story",
+      "width": 414,
+      "viewport": 414,
+      "document": 414,
+      "body": 414
+    },
+    {
+      "route": "/story",
+      "width": 768,
+      "viewport": 768,
+      "document": 768,
+      "body": 768
+    },
+    {
+      "route": "/story",
+      "width": 1280,
+      "viewport": 1280,
+      "document": 1280,
+      "body": 1280
+    },
+    {
+      "route": "/story",
+      "width": 1920,
+      "viewport": 1920,
+      "document": 1920,
+      "body": 1920
+    }
+  ],
+  "flows": [
+    "room fix + undo",
+    "floor fix + BOM + undo",
+    "story scroll choreography",
+    "reduced-motion static stages"
+  ]
+}
